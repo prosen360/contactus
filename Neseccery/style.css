@@ -1,0 +1,13 @@
+body{
+    background-position: auto;
+    background: rgb(251,251,251);
+background: linear-gradient(175deg, rgba(251,251,251,1) 0%, rgba(209,209,209,1) 35%, rgba(178,208,213,1) 100%);
+}
+
+
+.bg{
+   margin-left: 40px;
+   margin-right: 40px;
+    margin-top:12em;
+    font-family: Arial Bold, sans-serif;
+}
